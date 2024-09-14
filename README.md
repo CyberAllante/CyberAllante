@@ -1,4 +1,4 @@
-# Hello, I'm Allante AKA CYBERBOB
+# Hello, I'm Allante aka CYBERBOB
 <a href="https://www.linkedin.com/in/allantejohnsond/">
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
