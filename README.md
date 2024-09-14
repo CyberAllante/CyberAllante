@@ -7,7 +7,7 @@ An IT professional with 9+ years of experience, specializing in asset recovery a
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+As a dynamic professional with a background in cyber security solution development, technical support, as well as the ability to support multiple aspects of the security architecture and design, cyber security monitoring, assessment, vulnerability, and security framework, I have demonstrated successes in developing strategies and plans with an analytical mind capable for “out-of-the-box” thinking to solve problems.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
