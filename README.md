@@ -59,5 +59,6 @@ As a dynamic professional with a background in cyber security solution developme
 </div>
 
 ## Projects
+-Training Module
 - Detection Lab
 - SOC Automation Project
