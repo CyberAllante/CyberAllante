@@ -15,8 +15,8 @@ As a dynamic professional with a background in cyber security solution developme
 |-----------------------------------------------|----------------------------|
 | Python Script CVSS Decoder | <a href="https://github.com/CyberAllante/CVSS-Decoder" target="_blank">CVSS Decoder</a> |
 | Security Awareness Training Module | Training Module |
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/CyberAllante/Detection-Lab">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/CyberAllante/Detection-Lab">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
