@@ -53,10 +53,12 @@ As a dynamic professional with a background in cyber security solution developme
 
 ## Pending Certifications
 <div> 
-<img src="https://img.shields.io/badge/-CompTIA%20Pentest%2B-FF4500?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Pentest+ Badge" /> 
-<img src="https://img.shields.io/badge/-AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" alt="AWS Cloud Practitioner Badge" />
-<img src="https://img.shields.io/badge/-Splunk%20Core%20Certified%20User-2F4F4F?style=for-the-badge&logo=Splunk&logoColor=white" alt="Splunk Core Certified User Badge" /> 
+    <img src="https://img.shields.io/badge/-CompTIA%20Pentest%2B-FF4500?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Pentest+ Badge" /> 
+    <img src="https://img.shields.io/badge/-AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" alt="AWS Cloud Practitioner Badge" />
+    <img src="https://img.shields.io/badge/-Splunk%20Core%20Certified%20User-2F4F4F?style=for-the-badge&logo=Splunk&logoColor=white" alt="Splunk Core Certified User Badge" /> 
+    <img src="https://img.shields.io/badge/-CompTIA%20Security%2B-0078D4?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+ Badge" />
 </div>
+
 
 ## Projects
 - Training Module
