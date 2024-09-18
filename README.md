@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://app.letsdefend.io/user/cyberbob">
-    <img src="https://img.shields.io/badge/Let’s_Defend-Profile-blue?style=for-the-badge&logo=security&logoColor=white" alt="Let’s Defend Badge" />
+    <img src="https://img.shields.io/badge/Let’s_Defend-Profile-blue?style=for-the-badge" alt="Let’s Defend Badge" />
 </a>
 <a href="https://tryhackme.com/p/CyberBobby">
     <img src="https://tryhackme-badges.s3.amazonaws.com/CyberBobby.png" alt="TryHackMe" height="28">
@@ -12,7 +12,6 @@
 
 <br><br>
 An IT professional with 9+ years of experience, specializing in asset recovery and helpdesk support. Strong technical background in security operations, including incident response, malware analysis, network monitoring, and vulnerability assessments.
-
 
 ## Objective
 
