@@ -2,6 +2,7 @@
 <a href="https://www.linkedin.com/in/allantejohnsond/">
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<script src="https://tryhackme.com/badge/1952834"></script>
 <br><br>
 An IT professional with 9+ years of experience, specializing in asset recovery and helpdesk support. Strong technical background in security operations, including incident response, malware analysis, network monitoring, and vulnerability assessments.
 
