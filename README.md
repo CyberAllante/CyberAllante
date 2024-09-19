@@ -13,10 +13,6 @@
 <br><br>
 An IT professional with 9+ years of experience, specializing in asset recovery and helpdesk support. Strong technical background in security operations, including incident response, malware analysis, network monitoring, and vulnerability assessments.
 
-
-<br><br>
-An IT professional with 9+ years of experience, specializing in asset recovery and helpdesk support. Strong technical background in security operations, including incident response, malware analysis, network monitoring, and vulnerability assessments.
-
 ## Objective
 
 As a dynamic professional with a background in cyber security solution development, technical support, as well as the ability to support multiple aspects of the security architecture and design, cyber security monitoring, assessment, vulnerability, and security framework, I have demonstrated successes in developing strategies and plans with an analytical mind capable for “out-of-the-box” thinking to solve problems.
