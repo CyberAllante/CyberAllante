@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/allantejohnsond/">
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://app.letsdefend.io/user/cyberbob">
+<a href="https://app.letsdefend.io/user/cyberbob" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Let’s_Defend-blue?style=for-the-badge&logo=security&logoColor=white" alt="Let’s Defend Badge" />
 </a>
 <a href="https://tryhackme.com/p/CyberBobby">
