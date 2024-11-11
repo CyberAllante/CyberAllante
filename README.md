@@ -67,6 +67,11 @@ As a dynamic professional with a background in cyber security solution developme
     <img src="https://img.shields.io/badge/-CompTIA%20Security%2B-0078D4?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+ Badge" />
 </div>
 
+## TryHackMe Certificates
+<div> 
+    <img src="https://img.shields.io/badge/-Introduction%20to%20Cyber%20Security-00A1E0?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="Introduction to Cyber Security Badge" />
+</div>
+
 
 ## Projects
 - Training Module
