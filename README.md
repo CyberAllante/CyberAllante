@@ -56,7 +56,8 @@ As a dynamic professional with a background in cyber security solution developme
 ## Certifications
 <div> 
 <img src="https://img.shields.io/badge/-CySA%2B-006400?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA CySA+ Badge" /> 
-<img src="https://img.shields.io/badge/-ISC2%20Certified-000080?style=for-the-badge&logo=ISC2&logoColor=white" alt="ISC2 Certified Badge" /> 
+<img src="https://img.shields.io/badge/-ISC2%20Certified-000080?style=for-the-badge&logo=ISC2&logoColor=white" alt="ISC2 Certified Badge" />
+<img src="https://img.shields.io/badge/-CompTIA%20Pentest%2B-FF4500?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Pentest+ Badge" /> 
 </div>
 
 ## Pending Certifications
