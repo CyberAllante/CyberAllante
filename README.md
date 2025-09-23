@@ -7,10 +7,7 @@
     <img src="https://img.shields.io/badge/Let%27s_Defend-1589FF?style=for-the-badge&logo=security&logoColor=white" />
 </a>
 <a href="https://tryhackme.com/p/CyberBobby">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/CyberBobby.png" alt="TryHackMe" />
-</a>
-<a href="https://tryhackme.com/p/CyberBobby">
-    <img src="https://tryhackme.com/badge/1952834" alt="TryHackMe Badge" />
+    <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1952834" alt="TryHackMe Badge" />
 </a>
 
 <br><br>
