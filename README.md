@@ -3,11 +3,14 @@
 <a href="https://www.linkedin.com/in/allantejohnsond/">
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://app.letsdefend.io/user/cyberbob" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Let’s_Defend-blue?style=for-the-badge&logo=security&logoColor=white" alt="Let’s Defend Badge" />
+<a href="https://app.letsdefend.io/user/cyberbob">
+    <img src="https://img.shields.io/badge/Let%27s_Defend-1589FF?style=for-the-badge&logo=security&logoColor=white" />
 </a>
 <a href="https://tryhackme.com/p/CyberBobby">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/CyberBobby.png" alt="TryHackMe" height="28">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/CyberBobby.png" alt="TryHackMe" />
+</a>
+<a href="https://tryhackme.com/p/CyberBobby">
+    <img src="https://tryhackme.com/badge/1952834" alt="TryHackMe Badge" />
 </a>
 
 <br><br>
