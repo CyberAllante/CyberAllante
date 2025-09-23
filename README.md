@@ -51,6 +51,8 @@ As a dynamic professional with a background in cyber security solution developme
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sentinel-5C2D91?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-02569B?&style=for-the-badge&logo=ElasticStack&logoColor=white" />
 </div>
 
 ## Certifications
