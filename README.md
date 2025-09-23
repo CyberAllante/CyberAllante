@@ -29,7 +29,7 @@ As a dynamic professional with a background in cyber security solution developme
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-| Vulnerability Management Program | <a href="https://github.com/CyberAllante/Detection-Lab">Vulnerability Management Program</a>|
+| Vulnerability Management Program | <a href="https://github.com/CyberAllante/cyberrange">Vulnerability Management Program</a>|
 
 ## Tools
 
