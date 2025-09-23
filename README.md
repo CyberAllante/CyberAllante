@@ -11,7 +11,7 @@
 </a>
 
 <br><br>
-An IT professional with 9+ years of experience, specializing in asset recovery and helpdesk support. Strong technical background in security operations, including incident response, malware analysis, network monitoring, and vulnerability assessments.
+IT professional with 10 years of experience in the education sector, specializing in IT support, asset management, network infrastructure, and security operations.
 
 ## Objective
 
