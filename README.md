@@ -30,6 +30,7 @@ As a dynamic professional with a background in cyber security solution developme
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 | Vulnerability Management Program | <a href="https://github.com/CyberAllante/cyberrange">Vulnerability Management Program</a>|
+| Honeypot Deployment Project | <a href="https://github.com/CyberAllante/HoneyPot">T-Pot Honeypot Deployment</a> |
 
 ## Tools
 
