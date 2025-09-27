@@ -35,6 +35,7 @@ Focused on strengthening **security architecture**, **incident response**, and *
 | **Incident Response Execution** | SOC Automation Lab |
 | **Case Management (TheHive)** | SOC Automation Lab |
 | **Vulnerability Management** | [Cyber Range Program](https://github.com/CyberAllante/cyberrange) |
+| **KQL Query Practice** | [KQLQuery](https://github.com/CyberAllante/KQLQuery) |
 
 ---
 
