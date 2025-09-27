@@ -2,8 +2,7 @@
 
 💼 **IT Professional | Cybersecurity Analyst | Security Operations & Engineering**
 
-IT professional with **10 years of experience** in the **education sector**, specializing in **IT support**, **asset management**, **network infrastructure**, and **security operations**.  
-Experienced in managing devices, securing networks, and leading cybersecurity initiatives that align with compliance and best practices.
+IT professional with **10 years of experience** in the **education sector**, specializing in **IT support**, **asset management**, **network infrastructure**, and **security operations**. Experienced in managing devices, securing networks, and leading cybersecurity initiatives that align with compliance and best practices.
 
 ---
 
