@@ -2,8 +2,7 @@
 
 💼 **IT Professional | Cybersecurity Analyst | Security Operations & Engineering**
 
-IT professional with **10 years of experience** in the **education sector**, specializing in **IT support**, **asset management**, **network infrastructure**, and **security operations**.  
-Experienced in managing devices, securing networks, and leading cybersecurity initiatives that align with compliance and best practices.
+IT professional with **10 years of experience** in the **education sector**, specializing in **IT support**, **asset management**, **network infrastructure**, and **security operations**. Experienced in managing devices, securing networks, and leading cybersecurity initiatives that align with compliance and best practices.
 
 ---
 
@@ -20,6 +19,7 @@ Focused on strengthening **security architecture**, **incident response**, and *
 | 🔐 [**Microsoft Entra ID Deployment**](https://github.com/CyberAllante/Entra) | Cloud-based identity & access management with Apple Federation, compliance policies, and SaaS integrations |
 | 📊 [**Microsoft Sentinel SIEM + MITRE ATT&CK**](https://github.com/CyberAllante/Sentinel) | SIEM deployment with KQL-based detections, log correlation, and ATT&CK mapping |
 | 🧠 [**T-Pot Honeypot Deployment**](https://github.com/CyberAllante/HoneyPot) | Multi-honeypot environment capturing live attacks, analyzed through Elastic Stack dashboards |
+| 🕵️ [**Investigations w/ Sentinel**](https://www.notion.so/Investigations-W-Sentinel-27b69274e526801c88e3f8b7f976c62d?source=copy_link) | Hands-on incident analysis using Sentinel logs, threat correlation, and case documentation |
 
 ---
 
