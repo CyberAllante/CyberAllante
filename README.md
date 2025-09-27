@@ -1,17 +1,5 @@
 # 👋 Hello, I'm Allante — aka **CyberBob**
 
-<a href="https://www.linkedin.com/in/allantejohnsond/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://app.letsdefend.io/user/cyberbob">
-    <img src="https://img.shields.io/badge/Let's_Defend-1589FF?style=for-the-badge&logo=security&logoColor=white" />
-</a>
-<a href="https://tryhackme.com/p/CyberBobby">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/CyberBobby.png" alt="TryHackMe Badge" />
-</a>
-
----
-
 💼 **IT Professional | Cybersecurity Analyst | Security Operations & Engineering**
 
 IT professional with **10 years of experience** in the **education sector**, specializing in **IT support**, **asset management**, **network infrastructure**, and **security operations**.  
@@ -19,8 +7,19 @@ Experienced in managing devices, securing networks, and leading cybersecurity in
 
 ---
 
+## 🌟 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| 🔐 [**Microsoft Entra ID Deployment**](https://github.com/CyberAllante/Entra) | Cloud-based identity & access management with Apple Federation, compliance policies, and SaaS integrations |
+| 📊 [**Microsoft Sentinel SIEM + MITRE ATT&CK**](https://github.com/CyberAllante/Sentinel) | SIEM deployment with KQL-based detections, log correlation, and ATT&CK mapping |
+| 🧠 [**T-Pot Honeypot Deployment**](https://github.com/CyberAllante/HoneyPot) | Multi-honeypot environment capturing live attacks, analyzed through Elastic Stack dashboards |
+
+---
+
 ## 🎯 Objective  
-Motivated cybersecurity professional skilled in **technical support**, **security monitoring**, and **vulnerability management**. Focused on strengthening **security architecture**, **incident response**, and **compliance** through scalable, hands-on solutions.
+Motivated cybersecurity professional skilled in **technical support**, **security monitoring**, and **vulnerability management**.  
+Focused on strengthening **security architecture**, **incident response**, and **compliance** through scalable, hands-on solutions.
 
 ---
 
@@ -36,20 +35,6 @@ Motivated cybersecurity professional skilled in **technical support**, **securit
 | **Incident Response Execution** | SOC Automation Lab |
 | **Case Management (TheHive)** | SOC Automation Lab |
 | **Vulnerability Management** | [Cyber Range Program](https://github.com/CyberAllante/cyberrange) |
-| **Cloud Identity Management** | [Microsoft Entra ID / Azure AD Infrastructure](https://github.com/CyberAllante/Entra) |
-| **SIEM Operations (Sentinel)** | [Microsoft Sentinel + MITRE ATT&CK](https://github.com/CyberAllante/Sentinel) |
-| **Investigation Reports** | [Investigations W/ Sentinel (Notion)](https://www.notion.so/Investigations-W-Sentinel-27b69274e526801c88e3f8b7f976c62d?source=copy_link) |
-
----
-
-## 🌟 Featured Projects
-
-- 🧠 **[Training Module](#)** — Phishing Simulation & Awareness  
-- 🧰 **[Detection Lab](https://github.com/CyberAllante/Detection-Lab)** — SIEM + Attack Detection  
-- ⚙️ **SOC Automation Project** — SOAR, Case Management, Threat Response  
-- 🔍 **[T-Pot Honeypot Deployment](https://github.com/CyberAllante/HoneyPot)** — Real Attack Capture  
-- 🔐 **[Microsoft Entra ID Deployment](https://github.com/CyberAllante/Entra)** — Cloud IAM & Federation  
-- 📊 **[Microsoft Sentinel SIEM + MITRE ATT&CK](https://github.com/CyberAllante/Sentinel)** — Log Correlation & Threat Mapping  
 
 ---
 
@@ -87,4 +72,11 @@ Motivated cybersecurity professional skilled in **technical support**, **securit
 
 ---
 
-📫 **Let’s Connect:** [LinkedIn](https://www.linkedin.com/in/allantejohnsond/) | [TryHackMe](https://tryhackme.com/p/CyberBobby) | [Let's Defend](https://app.letsdefend.io/user/cyberbob)
+## 📫 Connect
+
+<a href="https://app.letsdefend.io/user/cyberbob">
+    <img src="https://img.shields.io/badge/Let's_Defend-1589FF?style=for-the-badge&logo=security&logoColor=white" />
+</a>
+<a href="https://tryhackme.com/p/CyberBobby">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/CyberBobby.png" alt="TryHackMe Badge" />
+</a>
