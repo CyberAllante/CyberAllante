@@ -32,6 +32,8 @@ As a dynamic professional with a background in cyber security solution developme
 | Vulnerability Management Program | <a href="https://github.com/CyberAllante/cyberrange">Vulnerability Management Program</a>|
 | Honeypot Deployment Project | <a href="https://github.com/CyberAllante/HoneyPot">T-Pot Honeypot Deployment</a> |
 | Sentinel SIEM Project | <a href="https://github.com/CyberAllante/Sentinel">Microsoft Sentinel SIEM + MITRE ATT&CK</a> |
+Investigations Reports / Sentinel | <a href="https://www.notion.so/Investigations-W-Sentinel-27b69274e526801c88e3f8b7f976c62d?source=copy_link">Investigations W/ Sentinel</a> |
+
 
 ## Tools
 
