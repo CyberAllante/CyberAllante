@@ -28,10 +28,10 @@ Focused on strengthening **security architecture**, **incident response**, and *
 
 | Project | Description |
 |--------|-------------|
+| 🔎 [**KQLQuery (KQL Practice)**](https://github.com/CyberAllante/KQLQuery) | Library of real-world KQL queries (filters, joins, summarize, visualizations) for Microsoft Sentinel practice |
 | 🐍 [**CVSS Decoder (Python Scripting)**](https://github.com/CyberAllante/CVSS-Decoder) | Custom Python tool that parses/decodes CVSS scores for faster vulnerability triage and reporting |
 | 🧾 [**Detection Lab (SIEM & Network Log Analysis)**](https://github.com/CyberAllante/Detection-Lab) | Hands-on lab generating Windows/Linux/network events and ingesting them into SIEM to practice detections, correlation, and tuning |
 | 🛡 [**Cyber Range Program (Vulnerability Management)**](https://github.com/CyberAllante/cyberrange) | Guided range for discovering, prioritizing, and remediating vulnerabilities (scans, baselines, patch planning) |
-| 🔎 [**KQLQuery (KQL Practice)**](https://github.com/CyberAllante/KQLQuery) | Library of real-world KQL queries (filters, joins, summarize, visualizations) for Microsoft Sentinel practice |
 
 ---
 
