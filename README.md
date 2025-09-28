@@ -2,8 +2,7 @@
 
 💼 **IT & Security Professional | SOC & SecOps Enthusiast | Network Defense & Endpoint Security**
 
-IT professional with **10 years of experience** in the **education sector**, specializing in **IT support**, **asset management**, **network infrastructure**, and **security operations**.  
-Experienced in managing devices, securing networks, and implementing cybersecurity initiatives that enhance visibility, compliance, and response readiness.
+IT professional with **10 years of experience** in the **education sector**, specializing in **IT support**, **asset management**, **network infrastructure**, and **security operations**. Experienced in managing devices, securing networks, and implementing cybersecurity initiatives that enhance visibility, compliance, and response readiness.
 
 ---
 
