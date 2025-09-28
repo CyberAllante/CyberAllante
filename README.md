@@ -7,8 +7,7 @@ IT professional with **10 years of experience** in the **education sector**, spe
 ---
 
 ## 🎯 Objective  
-Motivated IT professional transitioning into **cybersecurity operations**, skilled in **technical support**, **security monitoring**, and **vulnerability management**.  
-Focused on strengthening **security architecture**, **incident response**, and **compliance** through hands-on projects and scalable security solutions.
+Motivated IT professional transitioning into **cybersecurity operations**, skilled in **technical support**, **security monitoring**, and **vulnerability management**. Focused on strengthening **security architecture**, **incident response**, and **compliance** through hands-on projects and scalable security solutions.
 
 ---
 
