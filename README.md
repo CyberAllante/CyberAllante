@@ -21,6 +21,7 @@ Focused on strengthening **security architecture**, **incident response**, and *
 | 🧠 [**T-Pot Honeypot Deployment**](https://github.com/CyberAllante/HoneyPot) | Multi-honeypot environment capturing live attacks, analyzed through Elastic Stack dashboards |
 | 🕵️ [**Investigations w/ Sentinel**](https://www.notion.so/Investigations-W-Sentinel-27b69274e526801c88e3f8b7f976c62d?source=copy_link) | Hands-on incident analysis using Sentinel logs, threat correlation, and case documentation |
 | 🌍 [**Azure Sentinel Workbook Visualizations**](https://github.com/CyberAllante/Visualizations) | Interactive geospatial dashboards built from Sentinel and network logs to visualize authentication events, malicious traffic, and resource creation worldwide |
+🧰 [**MDE Onboarding & Investigation Lab**](https://github.com/CyberAllante/MDE_Onboarding_Investigation) | Hands-on lab demonstrating onboarding a Windows VM to Microsoft Defender for Endpoint, performing network isolation, and collecting an investigation package for forensic analysis.
 
 ---
 
