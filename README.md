@@ -29,12 +29,7 @@ Focused on strengthening **security architecture**, **incident response**, and *
 | Skill Area | Project / Example |
 |-------------|------------------|
 | **Python Scripting** | [CVSS Decoder](https://github.com/CyberAllante/CVSS-Decoder) |
-| **Security Awareness & Training** | Training Module |
-| **SIEM Implementation & Log Analysis** | [Detection Lab](https://github.com/CyberAllante/Detection-Lab) |
-| **Network Traffic Monitoring** | [Detection Lab](https://github.com/CyberAllante/Detection-Lab) |
-| **SOAR Automation (Shuffle)** | SOC Automation Lab |
-| **Incident Response Execution** | SOC Automation Lab |
-| **Case Management (TheHive)** | SOC Automation Lab |
+| **SIEM & Network Log Analysis** | [Detection Lab](https://github.com/CyberAllante/Detection-Lab) |
 | **Vulnerability Management** | [Cyber Range Program](https://github.com/CyberAllante/cyberrange) |
 | **KQL Query Practice** | [KQLQuery](https://github.com/CyberAllante/KQLQuery) |
 
