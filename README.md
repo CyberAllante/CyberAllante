@@ -1,14 +1,15 @@
 # 👋 Hello, I'm Allante — aka **CyberBob**
 
-💼 **IT Professional | Cybersecurity Analyst | Security Operations & Engineering**
+💼 **IT & Security Professional | SOC & SecOps Enthusiast | Network Defense & Endpoint Security**
 
-IT professional with **10 years of experience** in the **education sector**, specializing in **IT support**, **asset management**, **network infrastructure**, and **security operations**. Experienced in managing devices, securing networks, and leading cybersecurity initiatives that align with compliance and best practices.
+IT professional with **10 years of experience** in the **education sector**, specializing in **IT support**, **asset management**, **network infrastructure**, and **security operations**.  
+Experienced in managing devices, securing networks, and implementing cybersecurity initiatives that enhance visibility, compliance, and response readiness.
 
 ---
 
 ## 🎯 Objective  
-Motivated cybersecurity professional skilled in **technical support**, **security monitoring**, and **vulnerability management**.  
-Focused on strengthening **security architecture**, **incident response**, and **compliance** through scalable, hands-on solutions.
+Motivated IT professional transitioning into **cybersecurity operations**, skilled in **technical support**, **security monitoring**, and **vulnerability management**.  
+Focused on strengthening **security architecture**, **incident response**, and **compliance** through hands-on projects and scalable security solutions.
 
 ---
 
