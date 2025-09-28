@@ -26,12 +26,12 @@ Focused on strengthening **security architecture**, **incident response**, and *
 
 ## 🧠 Core Skills & Projects
 
-| Skill Area | Project / Example |
-|-------------|------------------|
-| **Python Scripting** | [CVSS Decoder](https://github.com/CyberAllante/CVSS-Decoder) |
-| **SIEM & Network Log Analysis** | [Detection Lab](https://github.com/CyberAllante/Detection-Lab) |
-| **Vulnerability Management** | [Cyber Range Program](https://github.com/CyberAllante/cyberrange) |
-| **KQL Query Practice** | [KQLQuery](https://github.com/CyberAllante/KQLQuery) |
+| Project | Description |
+|--------|-------------|
+| 🐍 [**CVSS Decoder (Python Scripting)**](https://github.com/CyberAllante/CVSS-Decoder) | Custom Python tool that parses/decodes CVSS scores for faster vulnerability triage and reporting |
+| 🧾 [**Detection Lab (SIEM & Network Log Analysis)**](https://github.com/CyberAllante/Detection-Lab) | Hands-on lab generating Windows/Linux/network events and ingesting them into SIEM to practice detections, correlation, and tuning |
+| 🛡 [**Cyber Range Program (Vulnerability Management)**](https://github.com/CyberAllante/cyberrange) | Guided range for discovering, prioritizing, and remediating vulnerabilities (scans, baselines, patch planning) |
+| 🔎 [**KQLQuery (KQL Practice)**](https://github.com/CyberAllante/KQLQuery) | Library of real-world KQL queries (filters, joins, summarize, visualizations) for Microsoft Sentinel practice |
 
 ---
 
