@@ -29,6 +29,7 @@ Motivated IT professional transitioning into **cybersecurity operations**, skill
 
 | Project | Description |
 |--------|-------------|
+| 🧠 [**Hands-on Keyboard Attack (Cyber Range)**](https://github.com/CyberAllante/Hands-on-Keyboard-Attack) | High-severity simulated incident in Microsoft Defender XDR demonstrating attack disruption, lateral movement, defense evasion, and SOC analysis of correlated alerts |
 | 🧠 [**MDE Log Generation & Advanced Hunting**](https://github.com/CyberAllante/MDE_Log_Generation) | PowerShell-based activity simulation on onboarded VMs to generate security telemetry, analyzed via advanced hunting queries across DeviceFileEvents, DeviceProcessEvents, DeviceNetworkEvents, and DeviceEvents |
 | 🔎 [**KQLQuery (KQL Practice)**](https://github.com/CyberAllante/KQLQuery) | Library of real-world KQL queries (filters, joins, summarize, visualizations) for Microsoft Sentinel practice |
 | 🐍 [**CVSS Decoder (Python Scripting)**](https://github.com/CyberAllante/CVSS-Decoder) | Custom Python tool that parses/decodes CVSS scores for faster vulnerability triage and reporting |
