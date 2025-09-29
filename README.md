@@ -29,6 +29,7 @@ Motivated IT professional transitioning into **cybersecurity operations**, skill
 
 | Project | Description |
 |--------|-------------|
+| 🧠 [Brute Force Threat Hunt on Internet-Facing VM](https://github.com/CyberAllante/BruteForce-Hunt-Cyberbob) | Cyber range hunt in Microsoft Defender XDR analyzing failed RDP/network logons on an exposed VM, detecting brute-force attempts, verifying no successful unauthorized access, and mapping findings to MITRE ATT&CK. |
 
 ---
 
