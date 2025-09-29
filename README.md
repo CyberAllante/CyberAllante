@@ -16,7 +16,6 @@ Motivated IT professional transitioning into **cybersecurity operations**, skill
 | Project | Description |
 |--------|-------------|
 | 🔐 [**Microsoft Entra ID Deployment**](https://github.com/CyberAllante/Entra) | Cloud-based identity & access management with Apple Federation, compliance policies, and SaaS integrations |
-| 📊 [**Microsoft Sentinel SIEM + MITRE ATT&CK**](https://github.com/CyberAllante/Sentinel) | SIEM deployment with KQL-based detections, log correlation, and ATT&CK mapping |
 | 🧠 [**T-Pot Honeypot Deployment**](https://github.com/CyberAllante/HoneyPot) | Multi-honeypot environment capturing live attacks, analyzed through Elastic Stack dashboards |
 | 🕵️ [**Investigations w/ Sentinel**](https://www.notion.so/Investigations-W-Sentinel-27b69274e526801c88e3f8b7f976c62d?source=copy_link) | Hands-on incident analysis using Sentinel logs, threat correlation, and case documentation |
 | 🌍 [**Azure Sentinel Workbook Visualizations**](https://github.com/CyberAllante/Visualizations) | Interactive geospatial dashboards built from Sentinel and network logs to visualize authentication events, malicious traffic, and resource creation worldwide |
