@@ -76,12 +76,6 @@ Motivated IT professional transitioning into **cybersecurity operations**, skill
 
 I'm continuously expanding my skills and projects in cybersecurity, cloud security, and offensive testing. Here's what's on deck:
 
-### 🎓 Certifications & Courses
-- **SC-200: Microsoft Security Operations Analyst**
-- **SecurityX (WGU)**
-- **Practical Web App Penetration Tester (PWAPT)**
-- **Introduction to AWS Pentesting** – Hands-on course covering EC2 exploitation, IAM privilege escalation, Lambda credential theft, and sensitive data discovery (taught by Tyler Ramsbey)
-
 ### 🧠 Learning Goals
 - Master **Purple Team operations** — bridging offensive and defensive techniques  
 - Advance **Detection Engineering** and **SOAR automation**  
