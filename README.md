@@ -76,23 +76,24 @@ Motivated IT professional transitioning into **cybersecurity operations**, skill
 
 I'm continuously expanding my skills and projects in cybersecurity, cloud security, and offensive testing. Here's what's on deck:
 
-### 🎓 Certifications
+### 🎓 Certifications & Courses
 - **SC-200: Microsoft Security Operations Analyst**
 - **SecurityX (WGU)**
 - **Practical Web App Penetration Tester (PWAPT)**
-- **AWS Cloud Practitioner (for Cloud Pentesting Foundations)**
+- **Introduction to AWS Pentesting** – Hands-on course covering EC2 exploitation, IAM privilege escalation, Lambda credential theft, and sensitive data discovery (taught by Tyler Ramsbey)
 
 ### 🧠 Learning Goals
 - Master **Purple Team operations** — bridging offensive and defensive techniques  
 - Advance **Detection Engineering** and **SOAR automation**  
-- Strengthen **AWS Pentesting** skills (IAM misconfigurations, S3 bucket attacks, SSRF, privilege escalation)  
+- Strengthen **AWS Pentesting** skills (EC2 exploitation, IAM abuse, SSRF, S3 misconfigurations)  
 - Build **custom Splunk dashboards** and **Sentinel KQL playbooks**
 
 ### 🧰 Upcoming Projects
 - 🔹 **SOAR Lab** – Wazuh + N8N automation workflows  
 - 🔹 **Splunk Detection Lab** – Threat hunting dashboards and alerts  
 - 🔹 **Cloud Security Lab** – Azure Defender & Identity Protection setup  
-- 🔹 **AWS Pentesting Lab** – Simulate cloud-based attacks and test detections
+- 🔹 **AWS Pentesting Lab** – Simulate cloud-based attacks and validate detections  
+
 </div>
 
 ---
