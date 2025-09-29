@@ -22,6 +22,7 @@ Motivated IT professional transitioning into **cybersecurity operations**, skill
 | 🌍 [**Azure Sentinel Workbook Visualizations**](https://github.com/CyberAllante/Visualizations) | Interactive geospatial dashboards built from Sentinel and network logs to visualize authentication events, malicious traffic, and resource creation worldwide |
 🧰 [**MDE Onboarding & Investigation Lab**](https://github.com/CyberAllante/MDE_Onboarding_Investigation) | Hands-on lab demonstrating onboarding a Windows VM to Microsoft Defender for Endpoint, performing network isolation, and collecting an investigation package for forensic analysis.
 | ☁️ [**Cloud Security Implementation Plan**](https://github.com/CyberAllante/Cloud-Security-Implementation-Plan) | End-to-end cloud security strategy covering IAM, network segmentation, compliance, and monitoring. |
+🔒 [Microsoft Defender for Endpoint – Custom Detection & Automated Isolation Lab](https://github.com/CyberAllante/Remote-Code-Execution)
 
 ---
 
