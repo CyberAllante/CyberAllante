@@ -72,11 +72,27 @@ Motivated IT professional transitioning into **cybersecurity operations**, skill
 <img src="https://img.shields.io/badge/-CompTIA_PenTest%2B-FF4500?style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
-### 📘 In Progress
-<div>
-<img src="https://img.shields.io/badge/-AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
-<img src="https://img.shields.io/badge/-Splunk_Core_Certified_User-2F4F4F?style=for-the-badge&logo=Splunk&logoColor=white" />
-<img src="https://img.shields.io/badge/-CompTIA_Security%2B-0078D4?style=for-the-badge&logo=CompTIA&logoColor=white" />
+## 🚀 What's Next
+
+I'm continuously expanding my skills and projects in cybersecurity, cloud security, and offensive testing. Here's what's on deck:
+
+### 🎓 Certifications
+- **SC-200: Microsoft Security Operations Analyst**
+- **SecurityX (WGU)**
+- **Practical Web App Penetration Tester (PWAPT)**
+- **AWS Cloud Practitioner (for Cloud Pentesting Foundations)**
+
+### 🧠 Learning Goals
+- Master **Purple Team operations** — bridging offensive and defensive techniques  
+- Advance **Detection Engineering** and **SOAR automation**  
+- Strengthen **AWS Pentesting** skills (IAM misconfigurations, S3 bucket attacks, SSRF, privilege escalation)  
+- Build **custom Splunk dashboards** and **Sentinel KQL playbooks**
+
+### 🧰 Upcoming Projects
+- 🔹 **SOAR Lab** – Wazuh + N8N automation workflows  
+- 🔹 **Splunk Detection Lab** – Threat hunting dashboards and alerts  
+- 🔹 **Cloud Security Lab** – Azure Defender & Identity Protection setup  
+- 🔹 **AWS Pentesting Lab** – Simulate cloud-based attacks and test detections
 </div>
 
 ---
