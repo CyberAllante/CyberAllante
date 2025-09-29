@@ -25,6 +25,13 @@ Motivated IT professional transitioning into **cybersecurity operations**, skill
 
 ---
 
+## 🕵️ Threat Hunting & Incident Response
+
+| Project | Description |
+|--------|-------------|
+
+---
+
 ## 🧠 Core Skills & Projects
 
 | Project | Description |
