@@ -51,7 +51,7 @@ Motivated IT professional transitioning into **cybersecurity operations**, skill
 
 | Project | Description |
 |--------|-------------|
-| 🧠 [**SilverPlatter**](https://github.com/CyberAllante/SilverPlatter) | TryHackMe walkthrough demonstrating end-to-end exploitation using enumeration, IDOR vulnerability, SSH access, and privilege escalation via log file credential discovery |
+| [**SilverPlatter**](https://github.com/CyberAllante/SilverPlatter) | Walkthrough demonstrating end-to-end exploitation using enumeration, IDOR vulnerability, SSH access, and privilege escalation via log file credential discovery |
 
 ---
 
