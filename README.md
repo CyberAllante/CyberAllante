@@ -11,6 +11,12 @@ Motivated IT professional transitioning into **cybersecurity operations**, skill
 
 ---
 
+## ⚙️ SOC Automation Lab
+| Project | Description |
+|--------|-------------|
+| 🧠 [**Part 1 – Splunk → n8n Webhook Integration**](https://github.com/CyberAllante/SOC-Automation-Lab) | Built the foundation of the SOC automation pipeline by forwarding Splunk alerts to n8n via webhooks, enabling automated alert ingestion. |
+| 🚨 [**Part 2 – Automated Alert Enrichment & Slack Notifications**](https://github.com/CyberAllante/SOC-Automation-Lab-2) | Enhanced the pipeline with GPT-based triage and IP enrichment using AbuseIPDB, delivering actionable alerts directly into Slack for analysts. |
+
 ## 🌟 Featured Projects
 
 | Project | Description |
