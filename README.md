@@ -47,7 +47,6 @@ Motivated IT professional transitioning into **cybersecurity operations**, skill
 | 🧠 [**MDE Log Generation & Advanced Hunting**](https://github.com/CyberAllante/MDE_Log_Generation) | PowerShell-based activity simulation on onboarded VMs to generate security telemetry, analyzed via advanced hunting queries across DeviceFileEvents, DeviceProcessEvents, DeviceNetworkEvents, and DeviceEvents |
 | 🔎 [**KQLQuery (KQL Practice)**](https://github.com/CyberAllante/KQLQuery) | Library of real-world KQL queries (filters, joins, summarize, visualizations) for Microsoft Sentinel practice |
 | 🐍 [**CVSS Decoder (Python Scripting)**](https://github.com/CyberAllante/CVSS-Decoder) | Custom Python tool that parses/decodes CVSS scores for faster vulnerability triage and reporting |
-| 🧾 [**Detection Lab (SIEM & Network Log Analysis)**](https://github.com/CyberAllante/Detection-Lab) | Hands-on lab generating Windows/Linux/network events and ingesting them into SIEM to practice detections, correlation, and tuning |
 | 🛡 [**Cyber Range Program (Vulnerability Management)**](https://github.com/CyberAllante/cyberrange) | Guided range for discovering, prioritizing, and remediating vulnerabilities (scans, baselines, patch planning) |
 | 🕵️ [**Investigations w/ Sentinel**](https://www.notion.so/Investigations-W-Sentinel-27b69274e526801c88e3f8b7f976c62d?source=copy_link) | Hands-on incident analysis using Sentinel logs, threat correlation, and case documentation |
 
