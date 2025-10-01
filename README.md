@@ -23,7 +23,6 @@ Motivated IT professional transitioning into **cybersecurity operations**, skill
 |--------|-------------|
 | 🔐 [**Microsoft Entra ID Deployment**](https://github.com/CyberAllante/Entra) | Cloud-based identity & access management with Apple Federation, compliance policies, and SaaS integrations |
 | 🧠 [**T-Pot Honeypot Deployment**](https://github.com/CyberAllante/HoneyPot) | Multi-honeypot environment capturing live attacks, analyzed through Elastic Stack dashboards |
-| 🕵️ [**Investigations w/ Sentinel**](https://www.notion.so/Investigations-W-Sentinel-27b69274e526801c88e3f8b7f976c62d?source=copy_link) | Hands-on incident analysis using Sentinel logs, threat correlation, and case documentation |
 | 🌍 [**Azure Sentinel Workbook Visualizations**](https://github.com/CyberAllante/Visualizations) | Interactive geospatial dashboards built from Sentinel and network logs to visualize authentication events, malicious traffic, and resource creation worldwide |
 🧰 [**MDE Onboarding & Investigation Lab**](https://github.com/CyberAllante/MDE_Onboarding_Investigation) | Hands-on lab demonstrating onboarding a Windows VM to Microsoft Defender for Endpoint, performing network isolation, and collecting an investigation package for forensic analysis.
 | ☁️ [**Cloud Security Implementation Plan**](https://github.com/CyberAllante/Cloud-Security-Implementation-Plan) | End-to-end cloud security strategy covering IAM, network segmentation, compliance, and monitoring. |
@@ -50,6 +49,7 @@ Motivated IT professional transitioning into **cybersecurity operations**, skill
 | 🐍 [**CVSS Decoder (Python Scripting)**](https://github.com/CyberAllante/CVSS-Decoder) | Custom Python tool that parses/decodes CVSS scores for faster vulnerability triage and reporting |
 | 🧾 [**Detection Lab (SIEM & Network Log Analysis)**](https://github.com/CyberAllante/Detection-Lab) | Hands-on lab generating Windows/Linux/network events and ingesting them into SIEM to practice detections, correlation, and tuning |
 | 🛡 [**Cyber Range Program (Vulnerability Management)**](https://github.com/CyberAllante/cyberrange) | Guided range for discovering, prioritizing, and remediating vulnerabilities (scans, baselines, patch planning) |
+| 🕵️ [**Investigations w/ Sentinel**](https://www.notion.so/Investigations-W-Sentinel-27b69274e526801c88e3f8b7f976c62d?source=copy_link) | Hands-on incident analysis using Sentinel logs, threat correlation, and case documentation |
 
 ---
 
