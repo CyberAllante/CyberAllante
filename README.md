@@ -36,7 +36,8 @@ Motivated IT professional transitioning into **cybersecurity operations**, skill
 |--------|-------------|
 | 🧠 [Brute Force Threat Hunt on Internet-Facing VM](https://github.com/CyberAllante/BruteForce-Hunt-Cyberbob) | Cyber range hunt in Microsoft Defender XDR analyzing failed RDP/network logons on an exposed VM, detecting brute-force attempts, verifying no successful unauthorized access, and mapping findings to MITRE ATT&CK. |
 | 🌐 [MDE Threat Hunting Lab – Sudden Network Slowdowns](https://github.com/CyberAllante/Sudden-Network-Slowdowns) | Investigates abnormal internal network activity using Microsoft Defender for Endpoint telemetry to detect PowerShell-based port scanning through DeviceNetworkEvents, DeviceProcessEvents, and DeviceFileEvents correlation. |
-| 🧠 [Malicious Process Detected – Cisco XDR Case Study](https://github.com/CyberAllante/RIR-Malicious-Process-Report) | Analyzes mshta→PowerShell attack chains using Cisco XDR and Microsoft Defender telemetry, mapping MITRE TTPs and applying Rapid Incident Response (RIR v7) playbooks for containment and remediation. |
+| 📘 [Rapid Incident Response v7](https://github.com/CyberAllante/Rapid-Incident-Response-v7) | Repository for RIR v7 incident response methodology, case studies, playbooks, and detection artifacts. |
+
 
 ---
 
